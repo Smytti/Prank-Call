@@ -10,7 +10,7 @@ $ cd Prank-Call
 $ pip install -r requirements.txt
 $ python main.py
 ```
-> Get Token [click here](https://bit.ly/TokenPrankCall)
+> Get Token [click here](https://bit.ly/TokenPrankC4ll)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
