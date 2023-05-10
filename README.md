@@ -1,16 +1,18 @@
 # Tools Prank Call
 ```
-Tools ini dibuat untuk nyepam temen, mantan,
-sama kang tipu pasti auto minta ampun dah :v
+Tools ini dibuat untuk ngerjain
+Kang Ripper atau boleh juga buat
+nyepam Mantan Lu awokawokwkwk:v
 ```
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
 ## How to it?
-```php
+```python
 $ cd Prank-Call
-$ pip install -r requirements.txt
+$ python -m pip install -r requirements.txt
 $ python main.py
 ```
-> Get Token [click here](https://bit.ly/TokenPrankC4ll)
+## Get Token
+- Link <code><a href="https://bit.ly/TokenPrankCallv2">click here</a></code>
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
